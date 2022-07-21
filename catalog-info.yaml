@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: github-demo
-  description: An example deployment of a Backstage application on github.
+  name: github-org-demo
+  description: An example deployment of a Backstage application on github orgs.
   annotations:
-    github.com/project-slug: nandhithakamal/demo
+    github.com/project-slug: backstage-poc/demo
 spec:
   type: service
-  owner: nandhithakamal
+  owner: baclstage-poc/nandhithakamal
   lifecycle: experimental
