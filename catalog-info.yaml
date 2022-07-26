@@ -2,10 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: github-org-demo
-  description: An example deployment of a Backstage application on github orgs.
+  description: An example deployment of a Backstage application on github orgs. this is used to test the pull request board plugin
   annotations:
     github.com/project-slug: backstage-poc/demo
 spec:
   type: service
-  owner: baclstage-poc/nandhithakamal
+  owner: backstage-poc/nandhithakamal
   lifecycle: experimental
