@@ -5,6 +5,7 @@ metadata:
   description: An example deployment of a Backstage application on github orgs. this is used to test the pull request board plugin
   annotations:
     github.com/project-slug: backstage-poc/demo
+    github.com/team-slug: tw-backstage-org/backstage-team
 spec:
   type: service
   owner: tw
