@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: backstage-poc/demo
 spec:
   type: service
-  owner: backstage-poc/nandhithakamal
+  owner: tw
   lifecycle: experimental
